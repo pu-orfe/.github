@@ -1,6 +1,6 @@
 ## Description
 
-This is the official GitHub organization for the Department of Operations Research and Financial Engineering at Princeton University.
+This is the official GitHub organization for the Department of Operations Research & Financial Engineering (ORFE) at Princeton University.
 
 ORFE sits at the intersection of mathematical modeling, data science, and decision-making. Our work focuses on developing the foundations of data science, probabilistic modeling, and optimal decision-making under uncertainty, with applications ranging from global financial markets to healthcare and energy systems.
 
